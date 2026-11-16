@@ -1,0 +1,8 @@
+.mimocode
+__pycache__/
+.venv/
+
+*.mp4
+
+
+
